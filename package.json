@@ -1,0 +1,20 @@
+{
+  "name": "save-the-date",
+  "version": "1.0.0",
+  "description": "save the date wedding invite",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jagruti and Dhaval",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "electron-builder": "^24.6.4"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "split-text": "^1.0.0"
+  }
+}
